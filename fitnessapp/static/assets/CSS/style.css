@@ -1,0 +1,43 @@
+
+html{
+    background-color: black;
+    height: 100%;
+}
+
+.login-c{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.quote img{
+    width: 33%;
+}
+
+.quote{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.signup-container{
+    position: absolute;
+    top: 100px;
+    display: block;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow-y: hidden;
+}
+
+.signin-h{
+    color: white;
+    margin-bottom: 40px;
+}
+
+.signup-corr{
+    height: 100%;
+}
